@@ -4,6 +4,7 @@
     "keywords": ["iota", "seed", "miota"],
     "homepage": "https://github.com/plabbett/php-iota-seed",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Patrick Labbett",
