@@ -1,5 +1,5 @@
 {
-    "name": "labbett/iota-seed",
+    "name": "plabbett/php-iota-seeder",
     "description": "Generates an 81-tryte random seed for iota wallets",
     "keywords": ["iota", "seed", "miota"],
     "homepage": "https://github.com/plabbett/php-iota-seed",
