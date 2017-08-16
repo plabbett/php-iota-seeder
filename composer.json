@@ -16,8 +16,8 @@
         "php": "^7.0"
     },
     "autoload": {
-        "psr-4": {
-            "Labbett": "src"
+        "psr-0": {
+            "Labbett": "src/"
         }
     }
 }

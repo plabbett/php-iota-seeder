@@ -1,7 +1,9 @@
 <?php
 
-  //require 'vendor/autoload.php';
-  require dirname(__FILE__) . '/src/Labbett/IOTA/Wallet/Seed.php';
+  require 'vendor/autoload.php';
+
+  // Alternatively, include the class directly.
+  //require dirname(__FILE__) . '/src/Labbett/IOTA/Wallet/Seed.php';
 
   use Labbett\IOTA\Wallet\Seed as IotaSeed;
 
