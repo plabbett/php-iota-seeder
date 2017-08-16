@@ -17,11 +17,6 @@ Install with composer:
 composer require plabbett/php-iota-seeder
 ```
 
-If that fails, try this. (I'm still figuring out composer/packagist)
-```
-composer require plabbett/php-iota-seeder=dev-master
-```
-
 Usage:
 ```
 require 'vendor/autoload.php';
@@ -32,7 +27,7 @@ $seed = IotaSeed::generate();
 
 ```
 
-See example.php for usage below:
+See example.php for usage examples.
 
 ```
 php example.php
