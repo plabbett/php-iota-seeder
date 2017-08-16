@@ -17,6 +17,11 @@ Install with composer:
 composer require plabbett/php-iota-seeder
 ```
 
+If that fails, try this. (I'm still figuring out composer/packagist)
+```
+composer require plabbett/php-iota-seeder=dev-master
+```
+
 Usage:
 ```
 require 'vendor/autoload.php';
