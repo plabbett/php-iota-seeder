@@ -1,6 +1,6 @@
 # PHP IOTA Seeder
 
-[![StyleCI](https://styleci.io/repos/100442553/shield?branch=masterformat=flat-square)](https://styleci.io/repos/100442553)
+[![StyleCI](https://styleci.io/repos/100442553/shield?branch=master)](https://styleci.io/repos/100442553)
 [![Latest Stable Version](https://poser.pugx.org/plabbett/php-iota-seeder/v/stable?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
 [![Total Downloads](https://poser.pugx.org/plabbett/php-iota-seeder/downloads?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
 [![License](https://poser.pugx.org/plabbett/php-iota-seeder/license?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
