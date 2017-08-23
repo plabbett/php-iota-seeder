@@ -1,12 +1,9 @@
 # PHP IOTA Seeder
 
-[![StyleCI](https://styleci.io/repos/100442553/shield?branch=master)](https://styleci.io/repos/100442553)
-
-[![Latest Stable Version](https://poser.pugx.org/plabbett/php-iota-seeder/v/stable)](https://packagist.org/packages/plabbett/php-iota-seeder)
-
-[![Total Downloads](https://poser.pugx.org/plabbett/php-iota-seeder/downloads)](https://packagist.org/packages/plabbett/php-iota-seeder)
-
-[![License](https://poser.pugx.org/plabbett/php-iota-seeder/license)](https://packagist.org/packages/plabbett/php-iota-seeder)
+[![StyleCI](https://styleci.io/repos/100442553/shield?branch=masterformat=flat-square)](https://styleci.io/repos/100442553)
+[![Latest Stable Version](https://poser.pugx.org/plabbett/php-iota-seeder/v/stable?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
+[![Total Downloads](https://poser.pugx.org/plabbett/php-iota-seeder/downloads?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
+[![License](https://poser.pugx.org/plabbett/php-iota-seeder/license?format=flat-square)](https://packagist.org/packages/plabbett/php-iota-seeder)
 
 Generates an 81-tryte random seed for [IOTA](http://iota.org)  wallets.
 
@@ -21,7 +18,7 @@ This is a work in progress. Please use at your own risk.
 We've generated thousands of seeds to test the distribution, here is a sample:
 
 ```shell
-cat seeds |sed -e 's/\(.\)/\1\n/g' | sort | uniq -c | sort -nr
+cat seeds | sed -e 's/\(.\)/\1\n/g' | sort | uniq -c | sort -nr
   99526 E
   99479 H
   99427 C
